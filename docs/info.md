@@ -13,7 +13,7 @@ BIT COUNTER
 
 ## How to test
 
-i dont know how
+i dont know how yiu can used this i'm new in this
 
 ## External hardware
 
